@@ -9,6 +9,8 @@
     <IISExpressUseClassicPipelineMode />
     <NameOfLastUsedPublishProfile>local</NameOfLastUsedPublishProfile>
     <UseGlobalApplicationHostFile />
+    <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
